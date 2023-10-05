@@ -1,0 +1,173 @@
+.addBtn {
+    width: 143px;
+    height: 32px, ;
+    background: blue;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(62, 63, 150);
+    text-transform: none;
+    box-shadow: none;
+    border-radius: 20px;
+    height: 40px;
+    margin-right: 72px;
+    margin-top: -8px;
+}
+
+.box {
+    width: 100%;
+    height: 581px;
+    background-color: white;
+    border-bottom: 1px solid;
+    z-index: 5;
+    margin-left: 0%;
+    overflow-y: scroll;
+    position: relative;
+}
+
+.grayBox {
+    width: 128px;
+    height: 120px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 38%;
+}
+
+.add {
+    margin-top: 20px;
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(62, 63, 150);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 125px
+}
+
+.tabs {
+    display: flex;
+    gap: 28px;
+    flex-direction: column;
+}
+
+.line {
+    border: 1px solid black;
+    height: 1px;
+    display: flex;
+    margin-top: 19px;
+    width: 82%;
+}
+
+.ul {
+    border: 1px solid rgb(62, 63, 150);
+    width: 99%;
+    margin: auto;
+    display: flex;
+}
+
+.li {
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid rgb(62, 63, 150);
+}
+
+.active {
+    background-color: rgb(62, 63, 150);
+    color: white;
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.btnStyle {
+    margin-top: 20px;
+    cursor: pointer;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(62, 63, 150);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 125px
+}
+
+.inputContainer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    width: 80%;
+}
+
+.inputIcon {
+    position: absolute;
+    right: 14px;
+    color: #555;
+}
+
+.inputField {
+    border: none;
+    outline: none;
+    flex: 1;
+}
+
+.colorsBox {
+    width: 420px;
+    height: 152px;
+    border: 1px solid;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    z-index: 10;
+    margin-top: 66px;
+}
+
+.colorDiv {
+    /* width: 175px; */
+    width: 160px;
+    height: 36px;
+    position: absolute;
+    bottom: -60px;
+    left: 45px;
+    border: 1px solid;
+    z-index: 10;
+}
+
+.colorDiv2 {
+    /* width: 176px; */
+    width: 160px;
+    height: 36px;
+    position: absolute;
+    bottom: -60px;
+    left: 57%;
+    border: 1px solid;
+    z-index: 10;
+}
+
+.datasDiv {
+    background: whitesmoke;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    min-height: 83px;
+    width: 78%;
+    margin-left: 47px;
+    padding: 14px 15px 16px;
+    border-radius: 5px 5px 0 0;
+    margin-top: 5px;
+}
+
+.line {
+    width: 100%;
+    border-style: solid;
+    border-color: rgb(85, 89, 101);
+}

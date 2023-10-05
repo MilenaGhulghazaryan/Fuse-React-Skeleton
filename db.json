@@ -1,0 +1,50 @@
+{
+  "slider": [
+    {
+      "img": "blob:http://localhost:3001/09971f10-dcbe-4cb5-867c-3b5269bb1b33",
+      "pageTitle": "ՀՏՀ /faq",
+      "btnTitle": "ss",
+      "addCategory": "",
+      "addProduct": "",
+      "title": "sssa",
+      "colors": "rgb(255, 106, 106)",
+      "colorsIndex": 1,
+      "colorBtn": "rgb(255, 204, 0)",
+      "colorBtnIndex": 8,
+      "id": 1
+    },
+    {
+      "img": "blob:http://localhost:3000/5e72cab1-bbfa-4912-a4a2-9ab635ccfeaf",
+      "pageTitle": "Ապրանքներ /products/list",
+      "btnTitle": "fff",
+      "addCategory": "",
+      "addProduct": "",
+      "title": "dddd",
+      "colors": "rgb(201, 41, 7)",
+      "colorsIndex": 0,
+      "colorBtn": "rgb(171, 235, 198)",
+      "colorBtnIndex": 15,
+      "id": 2
+    }
+  ],
+  "partners": [
+    {
+      "images": [],
+      "armValue": "dd",
+      "usValue": "",
+      "ruValue": "",
+      "link": "eee",
+      "status": false,
+      "id": 15
+    },
+    {
+      "images": "blob:http://localhost:3000/d8c0283e-3603-48e5-81c9-9e10462af41a",
+      "armValue": "sss",
+      "usValue": "",
+      "ruValue": "",
+      "link": "nnn",
+      "status": false,
+      "id": 16
+    }
+  ]
+}
